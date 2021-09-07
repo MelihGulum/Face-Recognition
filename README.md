@@ -17,3 +17,6 @@ For further information visit here https://github.com/ageitgey/face_recognition
 
 ### Example
 ![arthur_darvill](https://user-images.githubusercontent.com/81585804/132382816-9534a2e8-66bd-4c89-a66f-80aca1984241.gif)
+
+
+<img src="/gif/david_tennant.gif" width="250" height="50"/>
