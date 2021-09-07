@@ -21,6 +21,6 @@ For further information visit here https://github.com/ageitgey/face_recognition
   <img src="/gif/david_tennant.gif" width="250" height="250"/>   <img src="/gif/matt_smith.gif" width="250" height="250"/>  <img src="/gif/arthur_darvill.gif" width="250" height="250"/>
 
 
-Solarized dark             |  Solarized Ocean          |
+Example 1          |  Example 2          | Example 3
 :-------------------------:|:-------------------------: |:-------------------------: 
 <img src="/gif/david_tennant.gif" width="250" height="250"/>   |  <img src="/gif/matt_smith.gif" width="250" height="250"/> |<img src="/gif/arthur_darvill.gif" width="250" height="250"/>
