@@ -12,9 +12,9 @@ face_recognition = Built using dlib's state-of-the-art face recognition built wi
 
 This also provides a simple face_recognition command line tool that lets you do face recognition on a folder of images from the command line!
 
-For further information visit here https://github.com/ageitgey/face_recognition
+For further information visit here: https://github.com/ageitgey/face_recognition
 
-### Usage
+### How to use this project
 
 1. Put your image in "known" directory
 2. Run "Face Recognition.py"
