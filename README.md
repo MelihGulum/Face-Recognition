@@ -18,6 +18,4 @@ For further information visit here https://github.com/ageitgey/face_recognition
 ### Example
 
 
-<img src="/gif/david_tennant.gif" width="250" height="250"/>
-<img src="/gif/matt_smith.gif" width="250" height="250"/>
-<img src="/gif/arthur_darvill.gif" width="250" height="250"/>
+<img src="/gif/david_tennant.gif" width="250" height="250"/> <img src="/gif/matt_smith.gif" width="250" height="250"/> <img src="/gif/arthur_darvill.gif" width="250" height="250"/>
