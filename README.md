@@ -16,8 +16,8 @@ For further information visit here https://github.com/ageitgey/face_recognition
 
 ### Usage
 
-1.Put your image in "known" directory
-2.Run "Face Recognition.py"
+1. Put your image in "known" directory
+2. Run "Face Recognition.py"
 
 
 
