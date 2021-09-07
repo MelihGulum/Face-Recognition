@@ -1,7 +1,7 @@
 # Face-Recognition
 
 
-### **Libraries that used in this project:**
+## **Libraries that used in this project:**
 
 * numpy
 * cv2
@@ -14,15 +14,14 @@ This also provides a simple face_recognition command line tool that lets you do 
 
 For further information visit here: https://github.com/ageitgey/face_recognition
 
-### **How to use this project**
+## **How to use this project:**
 
 1. Put your image in "known" directory
 2. Run "Face Recognition.py"
 
 
 
-### Output
-
+## Output:
 
 Output 1          |  Output 2          | Output 3
 :-------------------------:|:-------------------------: |:-------------------------: 
