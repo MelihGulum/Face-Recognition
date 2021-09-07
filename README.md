@@ -16,7 +16,7 @@ For further information visit here: https://github.com/ageitgey/face_recognition
 
 ### **How to use this project:**
 
-1. Put your image in "known" directory
+1. Add your image file in "known" directory
 2. Run "Face Recognition.py"
 
 
