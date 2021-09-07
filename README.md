@@ -15,12 +15,9 @@ This also provides a simple face_recognition command line tool that lets you do 
 For further information visit here https://github.com/ageitgey/face_recognition
 
 
-### Example
+### Output
 
 
-  <img src="/gif/david_tennant.gif" width="250" height="250"/>   <img src="/gif/matt_smith.gif" width="250" height="250"/>  <img src="/gif/arthur_darvill.gif" width="250" height="250"/>
-
-
-Example 1          |  Example 2          | Example 3
+Output 1          |  Output 2          | Output 3
 :-------------------------:|:-------------------------: |:-------------------------: 
 <img src="/gif/david_tennant.gif" width="250" height="250"/>   |  <img src="/gif/matt_smith.gif" width="250" height="250"/> |<img src="/gif/arthur_darvill.gif" width="250" height="250"/>
